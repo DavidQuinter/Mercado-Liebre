@@ -1,0 +1,23 @@
+{
+  "name": "mercado-liebre",
+  "version": "1.0.0",
+  "description": "clon de mercadolibre, proyecto de DH",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidQuinter/Mercado-Liebre.git"
+  },
+  "author": "David Quintero Garcia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DavidQuinter/Mercado-Liebre/issues"
+  },
+  "homepage": "https://github.com/DavidQuinter/Mercado-Liebre#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
